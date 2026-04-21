@@ -71,5 +71,41 @@ The connection diagram needs significantly more data to match the richness of th
 - [ ] Experiment with a traditional corkboard-style diagram (straight lines, pinned cards, string connections) as an additional view alongside the existing force-directed graph
 - [ ] Try other diagram layout styles (hierarchical, radial, etc.) to see what communicates the connections best
 
+## Website — SEO Optimization
+
+### Head / Meta Tags
+- [ ] Add proper `<title>` tags per page (descriptive, keyword-rich, under 60 chars)
+- [ ] Add `<meta name="description">` per page (compelling summary, under 160 chars)
+- [ ] Add Open Graph tags (`og:title`, `og:description`, `og:image`, `og:url`) for social sharing
+- [ ] Add Twitter Card meta tags (`twitter:card`, `twitter:title`, `twitter:description`, `twitter:image`)
+- [ ] Add canonical URLs (`<link rel="canonical">`) to avoid duplicate content issues
+- [ ] Add structured data / JSON-LD (Article schema for case pages, WebSite schema for homepage)
+- [ ] Ensure proper `<meta name="robots">` directives
+- [ ] Add favicon and `apple-touch-icon` if missing
+
+### In-Article Links & Structure
+- [ ] Add internal cross-links between related case pages (e.g., Reza ↔ McCasland, Hicks ↔ Grillmair)
+- [ ] Link from case pages to relevant analysis sections and vice versa
+- [ ] Add outbound links to authoritative sources (news articles, government pages, congressional records)
+- [ ] Use descriptive anchor text (not "click here" — use "House Oversight hearing on scientist deaths")
+- [ ] Add a sitemap.xml and submit to Google Search Console
+- [ ] Ensure proper heading hierarchy (single H1 per page, logical H2/H3 nesting)
+- [ ] Add breadcrumb navigation with structured data
+
+### Keywords & Search Visibility
+- [ ] Target high-search terms: "missing scientists", "dead scientists 2024 2025", "Los Alamos deaths", "defense scientist deaths", "scientists disappearing", "UAP scientists killed"
+- [ ] Target adjacent buzz topics: "government cover-up scientists", "whistleblower scientists", "AARO", "David Grusch", "congressional UFO hearings", "classified programs scientists"
+- [ ] Include long-tail keywords naturally in case narratives: names + affiliations + locations + circumstances
+- [ ] Add an FAQ section or page targeting question-based searches ("Why are so many scientists dying?", "What happened to scientists at Los Alamos?")
+- [ ] Optimize image alt text with descriptive, keyword-relevant descriptions
+- [ ] Consider a blog/updates section for fresh content signals (Google favors regularly updated sites)
+- [ ] Monitor Google Trends for emerging related search terms and update content accordingly
+
+## Website — Community Contributions
+- [ ] **User-submitted connections on the diagram** — Allow visitors to suggest new nodes/edges (e.g., "I think X is connected to Y because…"). Could be a simple form that creates a GitHub issue or a moderated submission queue. Decide: live on site vs. PR-based workflow.
+- [ ] **CONTRIBUTING.md in the research repo** — Document how someone can contribute: how to submit a new case or connection, the source-tiering and confidence-rating requirements, the case file schema, and the no-contact policy. Lower the barrier for open-source researchers.
+- [ ] **Contributing guide on the website** — A public-facing "How to Contribute" page (friendlier than a raw markdown file) explaining what kinds of contributions are welcome: new cases, source links, corrections, foreign-language coverage, FOIA documents, etc.
+- [ ] **Moderation / review process** — Define how submissions get vetted before merging (source tier check, neutrality review, no doxxing/contact). Could be maintainer-only review or a small trusted-reviewer group.
+
 ## Website — UI Polish
 - [ ] Change the question mark icon
