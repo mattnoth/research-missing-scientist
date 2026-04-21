@@ -1,0 +1,33 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Timeline Data",
+  "type": "object",
+  "required": ["events"],
+  "properties": {
+    "events": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["date", "description", "caseId"],
+        "properties": {
+          "date": { "type": "string", "format": "date" },
+          "dateEnd": { "type": "string", "format": "date" },
+          "description": { "type": "string" },
+          "caseId": { "type": "string" },
+          "type": {
+            "type": "string",
+            "enum": ["death", "disappearance", "investigation", "official-statement", "other"]
+          },
+          "confidence": {
+            "type": "string",
+            "enum": ["confirmed", "reported", "alleged", "speculated"]
+          },
+          "sources": {
+            "type": "array",
+            "items": { "type": "string" }
+          }
+        }
+      }
+    }
+  }
+}

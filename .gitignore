@@ -1,0 +1,19 @@
+# macOS
+.DS_Store
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*~
+
+# Node/npm
+node_modules/
+npm-debug.log
+
+# Python
+.venv/
+__pycache__/
+
+# Generated output
+pdf-output/

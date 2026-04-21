@@ -1,0 +1,44 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Connection Diagram Data",
+  "type": "object",
+  "required": ["nodes", "edges"],
+  "properties": {
+    "nodes": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["id", "label", "type"],
+        "properties": {
+          "id": { "type": "string" },
+          "label": { "type": "string" },
+          "type": {
+            "type": "string",
+            "enum": ["person", "institution", "program", "location", "event"]
+          },
+          "metadata": { "type": "object" }
+        }
+      }
+    },
+    "edges": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["source", "target", "relationship"],
+        "properties": {
+          "source": { "type": "string" },
+          "target": { "type": "string" },
+          "relationship": { "type": "string" },
+          "layer": {
+            "type": "string",
+            "enum": ["tight", "medium", "corkboard"]
+          },
+          "confidence": {
+            "type": "string",
+            "enum": ["confirmed", "reported", "alleged", "speculated"]
+          }
+        }
+      }
+    }
+  }
+}
