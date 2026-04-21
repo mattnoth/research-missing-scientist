@@ -382,3 +382,140 @@ This case has the strongest non-conspiracy explanation of any in the cluster. A 
 #### Files written
 - `cases/maiwald.md` -- full case file
 - `appendices/primary-sources/maiwald/source-index.md`
+
+### Garcia case research
+
+**Date:** 2026-04-20
+**Researcher:** Sub-agent (Claude)
+
+#### Searches performed
+1. WebSearch: "Steven Garcia Albuquerque missing 2025" -- 10 results; NM DPS record, Newsweek, CBS, Fox, KOB 4, NewsNation, Cybernews, BroBible, aggregators
+2. WebSearch: "Steven Garcia Kansas City National Security Campus" -- 10 results; NewsNation (Lauren Conlin), Newsweek, British Brief, Cybernews
+3. WebSearch: "Steven Garcia missing scientist government contractor" -- 10 results; CBS, Newsweek, NewsNation, Fox, Daily Wire
+4. WebSearch: "Steven Garcia Albuquerque missing August 2025 APD police report property custodian" -- 10 results; no APD press release found
+5. WebSearch: ""Steven Garcia" "Daily Mail" Kansas City National Security Campus missing Albuquerque" -- confirmed Daily Mail as origin of KCNSC claim via anonymous source
+6. WebSearch: "Steven Garcia Albuquerque Silver Alert APD missing person 2025" -- no Silver Alert found; NM DPS record confirmed
+7. WebSearch: "Steven Garcia Albuquerque police department missing person endangered August 28" -- no APD press release found
+8. WebSearch: "dailymail.co.uk Steven Garcia Kansas City National Security Campus missing" -- Daily Mail article confirmed as origin but not directly fetchable
+9. WebSearch: "Kansas City National Security Campus statement Steven Garcia missing employee" -- no KCNSC statement; NNSA general statement located
+10. WebSearch: ""Steven Garcia" "Cattail Court" Albuquerque missing" -- address detail confirmed from anonymous source
+11. WebSearch: "Lauren Conlin Steven Garcia NewsNation investigation reporter" -- Conlin covers case, appears to relay anonymous-source claims
+12. WebSearch: ""Steven Garcia" found body update 2026 Albuquerque" -- no resolution; still missing
+13. WebSearch: "site:krqe.com OR site:koat.com OR site:kob.com Steven Garcia" -- KOB 4 found; no KRQE/KOAT coverage
+14. WebSearch: "Honeywell Kansas City National Security Campus statement missing scientists employees" -- NNSA general statement found
+15. WebSearch: "Lauren Conlin Daily Mail Steven Garcia KCNSC nuclear exclusive reporter" -- confirmed DailyMail.com as origin outlet
+
+#### Pages fetched
+1. NM DPS Missing Persons record M101688 (T1) -- successful; key biographical data extracted
+2. Newsweek "Missing government security man compared to Neil McCasland case" (T2) -- successful; noted Newsweek did not independently verify KCNSC employment
+3. CBS News cluster overview (T2) -- successful; used "reportedly" for KCNSC claim
+4. LiveNOW from FOX overview (T2) -- successful; cited "Fox News" for KCNSC claim
+5. British Brief article (T2/T3) -- successful; explicitly attributed KCNSC claim to anonymous source via Daily Mail
+6. Newsweek FBI investigation overview (T2) -- successful; Garcia listed with no sourcing detail
+7. Daily Wire article (T2) -- successful; cited Economic Times India, not independent
+8. NewsNation Lauren Conlin segment (T2) -- returned 403
+9. Cybernews article (T3) -- returned 403
+10. Colorado Springs Gazette (T2) -- returned 403
+11. BroBible article (T3) -- JS-heavy, no article body rendered
+
+#### Key findings: KCNSC employment sourcing chain
+**The entire KCNSC employment claim traces to a single anonymous source speaking to DailyMail.com (~April 12, 2026).** No outlet has published independent confirmation:
+- **Daily Mail:** Original outlet; anonymous source described Garcia as property custodian at KCNSC with top clearance
+- **Newsweek:** Explicitly stated it "has not independently verified his employment details"; reached out to KCNSC (no response documented)
+- **CBS News:** Used "reportedly" without attribution
+- **Fox News Digital:** Appears to have repeated the claim; LiveNOW from FOX cited Fox News as source
+- **NewsNation:** Reporter Lauren Conlin discussed Garcia on air, appears to relay the anonymous source's characterizations
+- **British Brief:** Explicitly cited "anonymous source revealed to the Daily Mail"
+- **Daily Wire:** Cited Economic Times India
+- **KCNSC/Honeywell FM&T:** No public statement confirming or denying
+- **NNSA:** General statement acknowledging awareness of reports; did not name Garcia
+
+#### Contradictions identified
+1. APD "danger to himself" warning vs. anonymous source's "very stable person" characterization
+2. Employment claim from anonymous source vs. complete absence of official confirmation
+
+#### Gaps remaining
+- Was Garcia actually employed at KCNSC? No official confirmation exists
+- APD basis for "danger to himself" warning
+- Identity and credibility of the anonymous source
+- No APD press release or Silver Alert located
+- No family statements found
+- No FBI/federal review status specific to Garcia
+- Investigation updates since August 2025
+- No NamUs entry found
+
+#### Files written
+- `cases/garcia.md` -- full case file
+- `appendices/primary-sources/garcia/nm-dps-missing-persons.md`
+- `appendices/primary-sources/garcia/nnsa-statement.md`
+
+### Foreign coverage research
+
+**Date:** 2026-04-20
+**Researcher:** Sub-agent (Claude)
+
+#### Search strategy
+Searched for coverage in Russia, China, Iran, Israel, UK, France, Germany, India, Japan, Australia, and Qatar. Used outlet-specific searches (RT, TASS, Xinhua, Global Times, Press TV, Tehran Times, BBC, Guardian, Le Monde, Der Spiegel, WION, NHK, Haaretz, SCMP, Al Jazeera, Daily Mail, LBC, IBTimes UK, UnHerd, Sky News, Telegraph, Times of India, NDTV, ABC Australia, Sydney Morning Herald, Jerusalem Post, Times of Israel, Japan Times). Searched in English.
+
+#### Countries with confirmed coverage (files written)
+
+1. **Russia** -- RT (2 articles), Pravda UK (1 commentary). State-affiliated. Sensationalist framing; implicit U.S.-dysfunction narrative. See `appendices/foreign-coverage/russia.md`.
+2. **China** -- Global Times (1 article). State-affiliated. UFO conspiracy angle foregrounded; omitted China-as-suspect framing from U.S. lawmakers. See `appendices/foreign-coverage/china.md`.
+3. **Iran** -- Tehran Times (1 op-ed), Press TV (1 article). State-affiliated. Tehran Times advanced unique "knowledge sequestration" theory. See `appendices/foreign-coverage/iran.md`.
+4. **United Kingdom** -- LBC (1), IBTimes UK (1), UnHerd (1). Independent outlets. Widest editorial range: LBC sensationalist, UnHerd skeptical. See `appendices/foreign-coverage/united-kingdom.md`.
+5. **India** -- WION (5+ articles/videos), Northeast Live TV (1). Independent. Highest volume of any foreign outlet. Original Mondaloy angle. See `appendices/foreign-coverage/india.md`.
+
+#### Countries with no meaningful coverage found
+France, Germany, Japan, Israel (mainstream), Australia, Qatar/Al Jazeera.
+
+#### Files written
+- `appendices/foreign-coverage/russia.md`
+- `appendices/foreign-coverage/china.md`
+- `appendices/foreign-coverage/iran.md`
+- `appendices/foreign-coverage/united-kingdom.md`
+- `appendices/foreign-coverage/india.md`
+
+### Named expert commentary research
+
+**Date:** 2026-04-20
+**Researcher:** Named-expert-commentary sub-agent (Claude)
+
+Searched for on-the-record statements from identifiable experts on the missing/dead U.S. defense scientists cluster. Created 10 individual profile files in `appendices/named-expert-commentary/`.
+
+#### Experts documented (10 total)
+
+**High credibility / Direct expertise:**
+1. Chris Swecker (former FBI Asst. Director) -- Espionage hypothesis, conditional framing. File: `chris-swecker.md`
+2. Joseph Rodgers (CSIS, Deputy Dir. Nuclear Issues) -- Skeptical of pattern. File: `joseph-rodgers-csis.md`
+3. Scott Roecker (NTI, VP Nuclear Materials Security) -- Skeptical; scale argument. File: `scott-roecker-nti.md`
+4. Jennifer Coffindaffer (retired FBI agent) -- Rejected conspiracy framing. File: `jennifer-coffindaffer.md`
+
+**Official government (direct authority):**
+5. Kash Patel (FBI Director) -- Confirmed investigation, no conclusions yet. File: `kash-patel.md`
+6. Chris Wright (Energy Secretary) -- Confirmed DOE review, nothing alarming yet. File: `chris-wright-doe.md`
+
+**Adjacent expertise / Media:**
+7. Ross Coulthart (journalist, NewsNation) -- "Grave national security crisis." File: `ross-coulthart.md`
+8. Michio Kaku (physicist, CCNY) -- "Cause for national concern." File: `michio-kaku.md`
+9. Luis Elizondo (former AATIP director) -- Restrained; deferred to law enforcement. File: `luis-elizondo.md`
+
+**Low credibility:**
+10. Steven Greer (Disclosure Project founder) -- UAP criminal-org narrative. File: `steven-greer.md`
+
+#### Key finding: Expert opinion is divided
+- Espionage-concerned: Swecker, Coulthart, Kaku
+- Skeptical: Rodgers (CSIS), Roecker (NTI), Coffindaffer
+- Official no-conclusions: Patel, Wright
+- UAP-narrative: Coulthart, Greer; Elizondo restrained
+
+#### Files written
+- `appendices/named-expert-commentary/ross-coulthart.md`
+- `appendices/named-expert-commentary/chris-swecker.md`
+- `appendices/named-expert-commentary/michio-kaku.md`
+- `appendices/named-expert-commentary/joseph-rodgers-csis.md`
+- `appendices/named-expert-commentary/scott-roecker-nti.md`
+- `appendices/named-expert-commentary/jennifer-coffindaffer.md`
+- `appendices/named-expert-commentary/luis-elizondo.md`
+- `appendices/named-expert-commentary/steven-greer.md`
+- `appendices/named-expert-commentary/kash-patel.md`
+- `appendices/named-expert-commentary/chris-wright-doe.md`
