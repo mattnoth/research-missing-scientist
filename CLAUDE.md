@@ -21,7 +21,7 @@ This is a structured research repository investigating deaths and disappearances
 ## Critical rules
 
 - **No contact policy**: Never attempt to contact any individual, family, agency, employer, or journalist. All sourcing uses already-public material only.
-- **No git push**: Agents commit locally only. The human operator pushes.
+- **Git push allowed**: Agents may push to origin when instructed.
 - **No sudo**: Never.
 - **Source tiering**: Every source is categorized Tier 1-8 (see README.md for definitions). Every factual claim carries a confidence rating: Confirmed, Reported, Alleged, or Speculated. The quote provenance rule applies: claims found only in national mainstream reporting (Tier 4) or lower must be traced to a higher-tier origin when possible.
 - **Neutrality**: No country or entity is pre-excluded or pre-implicated. Sensational framing is avoided in repository prose (quoted and attributed when from sources).
