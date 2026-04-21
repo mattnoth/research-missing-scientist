@@ -1,0 +1,271 @@
+/* Print stylesheet for Missing Scientists Dossier */
+/* Used with pandoc --pdf-engine=weasyprint */
+
+@page {
+  size: letter;
+  margin: 1in 1in 1.2in 1in;
+  @bottom-center {
+    content: counter(page);
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 9pt;
+    color: #666;
+  }
+  @bottom-right {
+    content: "Missing Scientists Dossier — Living Document";
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 7pt;
+    color: #999;
+  }
+}
+
+@page :first {
+  @bottom-center { content: none; }
+  @bottom-right { content: none; }
+}
+
+/* Body and base typography */
+body {
+  font-family: "Georgia", "Times New Roman", serif;
+  font-size: 10.5pt;
+  line-height: 1.55;
+  color: #1a1a1a;
+  max-width: 100%;
+}
+
+/* Headings */
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color: #111;
+  page-break-after: avoid;
+  break-after: avoid;
+}
+
+h1 {
+  font-size: 22pt;
+  font-weight: 700;
+  margin-top: 0.5in;
+  margin-bottom: 0.2in;
+  border-bottom: 2pt solid #333;
+  padding-bottom: 0.1in;
+  page-break-before: always;
+  break-before: page;
+}
+
+/* Don't page-break before the very first h1 (title) */
+body > h1:first-child {
+  page-break-before: avoid;
+  break-before: avoid;
+  margin-top: 0;
+}
+
+h2 {
+  font-size: 16pt;
+  font-weight: 600;
+  margin-top: 0.35in;
+  margin-bottom: 0.12in;
+  border-bottom: 0.5pt solid #999;
+  padding-bottom: 0.05in;
+}
+
+h3 {
+  font-size: 13pt;
+  font-weight: 600;
+  margin-top: 0.25in;
+  margin-bottom: 0.08in;
+}
+
+h4 {
+  font-size: 11pt;
+  font-weight: 600;
+  margin-top: 0.2in;
+  margin-bottom: 0.06in;
+}
+
+/* Paragraphs */
+p {
+  margin-bottom: 0.08in;
+  orphans: 3;
+  widows: 3;
+}
+
+/* Links — print-friendly (no color dependency) */
+a {
+  color: #1a1a1a;
+  text-decoration: underline;
+}
+
+/* Tables */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 0.15in 0;
+  font-size: 9.5pt;
+  page-break-inside: avoid;
+  break-inside: avoid;
+}
+
+th, td {
+  border: 0.5pt solid #999;
+  padding: 4pt 6pt;
+  text-align: left;
+  vertical-align: top;
+}
+
+th {
+  background-color: #f0f0f0;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: 600;
+  font-size: 9pt;
+}
+
+tr:nth-child(even) {
+  background-color: #fafafa;
+}
+
+/* Lists */
+ul, ol {
+  margin-bottom: 0.08in;
+  padding-left: 0.3in;
+}
+
+li {
+  margin-bottom: 0.03in;
+}
+
+/* Blockquotes — for sourced quotations */
+blockquote {
+  border-left: 3pt solid #666;
+  margin: 0.12in 0 0.12in 0.2in;
+  padding: 0.06in 0 0.06in 0.15in;
+  font-style: italic;
+  color: #333;
+}
+
+/* Code blocks — for JSON excerpts, schema refs */
+pre, code {
+  font-family: "Menlo", "Consolas", monospace;
+  font-size: 8.5pt;
+  background-color: #f5f5f5;
+  border: 0.5pt solid #ddd;
+}
+
+pre {
+  padding: 0.1in;
+  margin: 0.1in 0;
+  overflow-wrap: break-word;
+  white-space: pre-wrap;
+  page-break-inside: avoid;
+  break-inside: avoid;
+}
+
+code {
+  padding: 1pt 3pt;
+}
+
+pre code {
+  border: none;
+  padding: 0;
+  background: none;
+}
+
+/* Bold text for confidence ratings and source tiers */
+strong {
+  font-weight: 700;
+}
+
+/* Horizontal rules — section separators */
+hr {
+  border: none;
+  border-top: 1pt solid #ccc;
+  margin: 0.2in 0;
+}
+
+/* Cover page styling */
+.cover-page {
+  text-align: center;
+  padding-top: 2in;
+  page-break-after: always;
+  break-after: page;
+}
+
+.cover-page h1 {
+  font-size: 28pt;
+  border: none;
+  page-break-before: avoid;
+  break-before: avoid;
+}
+
+.cover-page .subtitle {
+  font-size: 14pt;
+  color: #444;
+  margin-top: 0.3in;
+}
+
+.cover-page .author {
+  font-size: 12pt;
+  margin-top: 0.5in;
+}
+
+.cover-page .date {
+  font-size: 11pt;
+  color: #666;
+  margin-top: 0.1in;
+}
+
+.cover-page .notice {
+  font-size: 9pt;
+  color: #555;
+  margin-top: 0.8in;
+  text-align: left;
+  border: 1pt solid #999;
+  padding: 0.15in;
+  line-height: 1.4;
+}
+
+/* Source tier key (inline) */
+.tier-key {
+  font-size: 8.5pt;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color: #444;
+  background: #f8f8f8;
+  border: 0.5pt solid #ddd;
+  padding: 0.08in;
+  margin: 0.1in 0;
+}
+
+/* Confidence rating indicators — text-based, no color dependency */
+/* [Confirmed] [Reported] [Alleged] [Speculated] appear inline */
+
+/* Image styling for diagrams */
+img {
+  max-width: 100%;
+  height: auto;
+  page-break-inside: avoid;
+  break-inside: avoid;
+}
+
+/* SVG in diagrams */
+svg {
+  max-width: 100%;
+  height: auto;
+}
+
+/* Landscape pages for timeline */
+@page landscape {
+  size: letter landscape;
+}
+
+.landscape {
+  page: landscape;
+}
+
+/* Print-specific overrides */
+@media print {
+  body {
+    font-size: 10.5pt;
+  }
+
+  a[href]::after {
+    content: none; /* Don't append URLs after links */
+  }
+}
