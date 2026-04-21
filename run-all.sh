@@ -40,20 +40,20 @@ echo "============================================================"
 echo ""
 
 echo "--- Running prompt-000 (bootstrap) ---"
-claude --dangerously-skip-permissions "$(cat prompt-000.md)" && \
+claude --dangerously-skip-permissions "$(cat prompts/build/prompt-000.md)" && \
 
 echo "" && \
 echo "--- Running prompt-001 (research + artifacts) ---" && \
 echo "    This is the long one. May take an hour or more." && \
-claude --dangerously-skip-permissions "$(cat prompt-001.md)" && \
+claude --dangerously-skip-permissions "$(cat prompts/build/prompt-001.md)" && \
 
 echo "" && \
 echo "--- Running prompt-002 (PDF generation) ---" && \
-claude --dangerously-skip-permissions "$(cat prompt-002.md)" && \
+claude --dangerously-skip-permissions "$(cat prompts/build/prompt-002.md)" && \
 
 echo "" && \
 echo "--- Running prompt-003 (website integration) ---" && \
-claude --dangerously-skip-permissions "$(cat prompt-003.md)"
+claude --dangerously-skip-permissions "$(cat prompts/build/prompt-003.md)"
 
 echo ""
 echo "============================================================"
@@ -75,5 +75,7 @@ Next steps:
      locally into main but NOT pushed. Review, then 'git push' when ready.
   4. Run prompt-004.md manually when new information surfaces:
      claude --dangerously-skip-permissions "\$(cat prompt-004.md)"
+  5. Run deep research prompts for source expansion:
+     claude --dangerously-skip-permissions "\$(cat prompts/research/prompt-deep-NNN.md)"
 
 EOF

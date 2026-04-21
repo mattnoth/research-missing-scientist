@@ -4,13 +4,34 @@ This is a living-artifact research project. The pipeline is composed of five pro
 
 ## Prompts at a glance
 
+### Build prompts (`prompts/build/`)
+
 | Prompt | Purpose | Runs in chain? | Typical duration |
 |---|---|---|---|
-| `prompt-000.md` | Bootstrap: initialize git repo, create skeleton, write README stub | Yes | ~1 min |
-| `prompt-001.md` | Main research: spawn sub-agents, populate case files, appendices, analysis, data JSON | Yes | ~1–2 hours |
-| `prompt-002.md` | PDF generation (dossier, cases, diagrams, timeline) | Yes | ~10–20 min |
-| `prompt-003.md` | Website integration in `/Users/mnoth/source/mattnoth-dev/` | Yes | ~30–60 min |
+| `prompts/build/prompt-000.md` | Bootstrap: initialize git repo, create skeleton, write README stub | Yes | ~1 min |
+| `prompts/build/prompt-001.md` | Main research: spawn sub-agents, populate case files, appendices, analysis, data JSON | Yes | ~1–2 hours |
+| `prompts/build/prompt-002.md` | PDF generation (dossier, cases, diagrams, timeline) | Yes | ~10–20 min |
+| `prompts/build/prompt-003.md` | Website integration in `/Users/mnoth/source/mattnoth-dev/` | Yes | ~30–60 min |
+| `prompts/build/prompt-resume.md` | Resume after rate-limit interruption | Manual | Variable |
+| `prompts/build/prompt-reconcile.md` | Audit interrupted prompt-001 for completeness | Manual | ~10 min |
+
+### News update prompt (top-level)
+
+| Prompt | Purpose | Runs in chain? | Typical duration |
+|---|---|---|---|
 | `prompt-004.md` | Maintenance / update — run manually when news surfaces | No (manual) | Variable |
+
+### Deep research prompts (`prompts/research/`)
+
+| Prompt | Purpose | Depends on | Typical duration |
+|---|---|---|---|
+| `prompt-deep-001.md` | Public records & primary source deep dive (11 sub-agents, 1 per case) | — | ~1–2 hours |
+| `prompt-deep-002.md` | Professional networks: patents, publications, grants, associations (4 sub-agents) | — | ~1 hour |
+| `prompt-deep-003.md` | Foreign-language & international source expansion (5 regional sub-agents) | — | ~1 hour |
+| `prompt-deep-004.md` | Historical precedent & base-rate statistical analysis (3 sub-agents) | — | ~1 hour |
+| `prompt-deep-005.md` | Integration, comparison & gap audit — updates analysis, data, dossier | 001–004 | ~30–60 min |
+
+See `prompts/research/README.md` for alignment rules and execution details.
 
 ## Running the chain
 
@@ -47,10 +68,10 @@ cat run-all-raw.log | jq -r 'select(.type=="assistant") | .message.content[] | s
 
 ```bash
 cd /Users/mnoth/source/research-missing-scientists/ && \
-claude -p --output-format=stream-json --verbose --dangerously-skip-permissions "$(cat prompt-000.md)" && \
-claude -p --output-format=stream-json --verbose --dangerously-skip-permissions "$(cat prompt-001.md)" && \
-claude -p --output-format=stream-json --verbose --dangerously-skip-permissions "$(cat prompt-002.md)" && \
-claude -p --output-format=stream-json --verbose --dangerously-skip-permissions "$(cat prompt-003.md)"
+claude -p --output-format=stream-json --verbose --dangerously-skip-permissions "$(cat prompts/build/prompt-000.md)" && \
+claude -p --output-format=stream-json --verbose --dangerously-skip-permissions "$(cat prompts/build/prompt-001.md)" && \
+claude -p --output-format=stream-json --verbose --dangerously-skip-permissions "$(cat prompts/build/prompt-002.md)" && \
+claude -p --output-format=stream-json --verbose --dangerously-skip-permissions "$(cat prompts/build/prompt-003.md)"
 ```
 
 (Without `jq` piping, you get raw JSON. Use the script for the filtered view.)
@@ -58,13 +79,13 @@ claude -p --output-format=stream-json --verbose --dangerously-skip-permissions "
 ### Running a single prompt
 
 ```bash
-claude -p --output-format=stream-json --verbose --dangerously-skip-permissions "$(cat prompt-001.md)"
+claude -p --output-format=stream-json --verbose --dangerously-skip-permissions "$(cat prompts/build/prompt-001.md)"
 ```
 
 Or with the same pretty-printing the script uses:
 
 ```bash
-claude -p --output-format=stream-json --verbose --dangerously-skip-permissions "$(cat prompt-001.md)" | jq -r '
+claude -p --output-format=stream-json --verbose --dangerously-skip-permissions "$(cat prompts/build/prompt-001.md)" | jq -r '
   select(.type != "system") |
   if .type == "assistant" then
     (.message.content // [])[] |
@@ -85,6 +106,18 @@ claude -p --output-format=stream-json --verbose --dangerously-skip-permissions "
 
 ```bash
 claude -p --output-format=stream-json --verbose --dangerously-skip-permissions "$(cat prompt-004.md)"
+```
+
+### Deep research prompts
+
+Run any of prompts deep-001 through deep-004 independently (any order), then run deep-005 to integrate:
+
+```bash
+# Example: run primary source deep dive
+claude -p --output-format=stream-json --verbose --dangerously-skip-permissions "$(cat prompts/research/prompt-deep-001.md)"
+
+# After all deep dives complete, integrate
+claude -p --output-format=stream-json --verbose --dangerously-skip-permissions "$(cat prompts/research/prompt-deep-005.md)"
 ```
 
 Pipe through `jq` as above if you want pretty output.
@@ -189,7 +222,7 @@ Prompt 004 will ask whether to regenerate these. You can say yes/no case by case
   nohup ./run-all.sh > run-all.log 2>&1 &
   ```
   Then `tail -f run-all.log` when you want to peek.
-- If prompt 001 fails partway through, you can often re-invoke it — the prompt is designed to be idempotent for completed case files (sub-agents will see existing files and not redo them). Check `logs/research-log.md` first to confirm state.
+- If prompt 001 fails partway through, you can often re-invoke it — the prompt is designed to be idempotent for completed case files (sub-agents will see existing files and not redo them). Check `logs/research-log.md` first to confirm state. Alternatively, use `prompts/build/prompt-resume.md` or `prompts/build/prompt-reconcile.md`.
 - **Re-reading the reasoning after a run:** the raw log preserves every thinking block, tool call, and tool result. You can grep it freely. For example, to see every `web_search` query the agent ran:
   ```bash
   jq -r 'select(.type=="assistant") | .message.content[]? | select(.type=="tool_use" and .name=="web_search") | .input.query' run-all-raw.log
