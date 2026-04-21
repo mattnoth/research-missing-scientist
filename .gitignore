@@ -21,3 +21,6 @@ pdf-output/
 # Pipeline logs
 run-all.log
 reconcile.log
+
+# WIP prompt drafts (not shipped)
+drafts/
