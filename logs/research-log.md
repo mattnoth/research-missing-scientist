@@ -2,6 +2,13 @@
 
 Chronological record of searches performed, sources consulted, and decisions made. Also serves as the append-only session ledger per [.claude/commands/end-session.md](../.claude/commands/end-session.md).
 
+## 2026-04-21 — Harness-integration conformance check (read-only)
+
+**What happened:**
+- Executed `drafts/prompt-harness-integration.md` Phases 1–3 (discovery, gap analysis, install plan).
+- Harness classified as **Mature, conforming** — all three required artifacts present, adapter table matches, no conflicts.
+- No filesystem changes made; `APPROVED` gate not reached because nothing needed doing.
+
 ## 2026-04-21 — Agent harness install (tailored)
 
 **What happened:**
