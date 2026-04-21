@@ -69,8 +69,8 @@ If the update changes any connection in the diagram or event in the timeline:
 
 ### 6. Ask about downstream regeneration
 - If content affecting PDFs changed: "PDFs are out of date. Run prompt 002 now to regenerate? (yes/no)"
-- If content affecting website changed: "Website is out of date. Run prompt 003 now? (yes/no)"
-- Do not run them without explicit user confirmation.
+- If content affecting website changed: "Website content is out of date. The website at `/Users/mnoth/source/mattnoth-dev/` reads from this research repo at build time. To update: `cd /Users/mnoth/source/mattnoth-dev && npm run build`. Do NOT re-run prompt 003 — that is the initial creation prompt and will conflict with existing work."
+- Do not run downstream prompts without explicit user confirmation.
 
 ### 7. Commit and report
 - Commit with scope-prefixed messages.
