@@ -32,13 +32,13 @@ The Israeli precedent is the closest analogue but differs in critical ways:
 
 ### Cases with highest plausibility for foreign intelligence interest
 
-**McCasland** (Missing, Feb 2026)
+**[McCasland](../cases/mccasland.md)** (Missing, Feb 2026)
 
 *For:* Career profile makes him objectively a high-value intelligence target. Former SAPOC executive secretary (oversight of all DOD Special Access Programs). Former AFRL commander. Director of Special Programs in OUSD(AT&L). Post-retirement work at Applied Technology Associates/BlueHalo (directed energy, space warfare, missile defense). His knowledge base, even 13 years after military retirement, would be of interest to any peer adversary. [T1 official biography, Confirmed]
 
 *Against:* BCSO stated it has "not developed evidence establishing that Mr. McCasland's disappearance is connected to his classified work" [T4 Newsweek, Confirmed]. Wife reported he experienced "mental fog," anxiety, memory loss, and sleep issues [T4, Reported]. She stated he had "only very commonly held clearances" since retiring [T4, Reported]. He took his wallet and revolver -- inconsistent with forced abduction but potentially consistent with voluntary departure under distress. No intelligence agency has indicated foreign involvement. [T4, Confirmed]
 
-**Reza** (Missing, June 2025)
+**[Reza](../cases/reza.md)** (Missing, June 2025)
 
 *For:* Co-inventor of Mondaloy superalloy with documented application in rocket engine components. Her work contributed to U.S. efforts to reduce dependence on Russian RD-180 engines -- a program of direct strategic relevance. Patent portfolio is public, but manufacturing know-how and JPL institutional knowledge would have intelligence value. [T1 USPTO patents; T4 multiple sources]
 
@@ -48,15 +48,15 @@ The Israeli precedent is the closest analogue but differs in critical ways:
 
 | Case | Why low plausibility | Source |
 |---|---|---|
-| Casias | Admin assistant; family disputes high clearance | T4 (CBS News, family statement) |
-| Chavez | Retired 8 years; specific role unknown; no documented classified work | T3 (Los Alamos Reporter) |
-| Garcia | KCNSC employment unverified (T5 single source); if true, property custodian role | T5 (Daily Mail anonymous source) |
-| Hicks | Unclassified planetary science; left JPL 2022 | T1 (LPL memorial, obituary) |
-| Maiwald | Largely unclassified instrumentation (SBG-VSWIR, AMR, HIFI) | T1 (Legacy.com obituary, publications) |
-| Thomas | Pharma researcher; no defense connection | T1 (obituary, Middlesex DA) |
-| Grillmair | Unclassified astrophysics; named criminal suspect | T1 (Caltech memorial); T3 (LASD via local media, courts) |
-| Loureiro | Named suspect with personal motive and video confession | T1 (DOJ); T4 (multiple) |
-| Eskridge | Private org; no government funding; ruled suicide; father rejects conspiracy | T1 (obituary); T4 (NewsNation) |
+| [Casias](../cases/casias.md) | Admin assistant; family disputes high clearance | T4 (CBS News, family statement) |
+| [Chavez](../cases/chavez.md) | Retired 8 years; specific role unknown; no documented classified work | T3 (Los Alamos Reporter) |
+| [Garcia](../cases/garcia.md) | KCNSC employment unverified (T5 single source); if true, property custodian role | T5 (Daily Mail anonymous source) |
+| [Hicks](../cases/hicks.md) | Unclassified planetary science; left JPL 2022 | T1 (LPL memorial, obituary) |
+| [Maiwald](../cases/maiwald.md) | Largely unclassified instrumentation (SBG-VSWIR, AMR, HIFI) | T1 (Legacy.com obituary, publications) |
+| [Thomas](../cases/thomas.md) | Pharma researcher; no defense connection | T1 (obituary, Middlesex DA) |
+| [Grillmair](../cases/grillmair.md) | Unclassified astrophysics; named criminal suspect | T1 (Caltech memorial); T3 (LASD via local media, courts) |
+| [Loureiro](../cases/loureiro.md) | Named suspect with personal motive and video confession | T1 (DOJ); T4 (multiple) |
+| [Eskridge](../cases/eskridge.md) | Private org; no government funding; ruled suicide; father rejects conspiracy | T1 (obituary); T4 (NewsNation) |
 
 ---
 
@@ -157,10 +157,10 @@ The assessment breaks along a spectrum:
 
 | Tier | Cases | Foreign-intel plausibility | Basis |
 |---|---|---|---|
-| Plausible but unsupported | McCasland, Reza | Low-to-moderate | Career profiles make them objectively interesting to adversary intelligence; disappearances are genuinely unexplained; but no affirmative evidence of foreign involvement exists |
-| Implausible | Chavez, Casias, Garcia | Very low | Low or unconfirmed clearance levels; administrative or unknown roles; circumstances more consistent with personal crisis |
-| Excluded by evidence | Grillmair, Loureiro | Effectively zero | Named suspects with non-intelligence motives; ballistic and forensic evidence; video confession |
-| Not applicable | Thomas, Eskridge, Hicks, Maiwald | Very low to zero | No defense connection (Thomas), private org with no government funding (Eskridge), undisclosed but apparently non-suspicious causes of death (Hicks, Maiwald) |
+| Plausible but unsupported | [McCasland](../cases/mccasland.md), [Reza](../cases/reza.md) | Low-to-moderate | Career profiles make them objectively interesting to adversary intelligence; disappearances are genuinely unexplained; but no affirmative evidence of foreign involvement exists |
+| Implausible | [Chavez](../cases/chavez.md), [Casias](../cases/casias.md), [Garcia](../cases/garcia.md) | Very low | Low or unconfirmed clearance levels; administrative or unknown roles; circumstances more consistent with personal crisis |
+| Excluded by evidence | [Grillmair](../cases/grillmair.md), [Loureiro](../cases/loureiro.md) | Effectively zero | Named suspects with non-intelligence motives; ballistic and forensic evidence; video confession |
+| Not applicable | [Thomas](../cases/thomas.md), [Eskridge](../cases/eskridge.md), [Hicks](../cases/hicks.md), [Maiwald](../cases/maiwald.md) | Very low to zero | No defense connection (Thomas), private org with no government funding (Eskridge), undisclosed but apparently non-suspicious causes of death (Hicks, Maiwald) |
 
 **Key finding:** The strongest argument against the foreign-intelligence hypothesis is not that it is impossible but that it lacks strategic rationale. Nuclear security experts argue persuasively that the U.S. defense-science base is too large, too redundant, and too institutionally robust for individual-level targeting to achieve meaningful strategic degradation. The historical precedent that most closely fits (Israeli targeting of Iranian scientists) operated under conditions -- small, irreplaceable target set in a clandestine program -- that do not apply to the U.S. context.
 

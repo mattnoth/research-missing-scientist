@@ -241,6 +241,24 @@ See also: `logs/contradictions.md`
 
 ---
 
+## Related Cases
+
+- **[Monica Reza](reza.md)** — Both had ties to the Air Force Research Laboratory ecosystem. Reza collaborated with AFRL on Mondaloy superalloy scale-up (1999); McCasland commanded AFRL at Wright-Patterson (2011–2013). WION flagged a "Mondaloy connection." No documented personal or professional relationship has been established. Both remain missing under unexplained circumstances and are the two highest-ranked cases for pattern fit.
+- **[Steven Garcia](garcia.md)** — Both disappeared from Albuquerque, NM (Garcia in August 2025, McCasland in February 2026). No documented connection beyond geographic proximity. Garcia's defense-employment claim is unverified.
+- **[Anthony Chavez](chavez.md)** and **[Melissa Casias](casias.md)** — All four New Mexico cases (Chavez, Casias, Garcia, McCasland) form the NM geographic cluster analyzed in [connection-analysis.md](../analysis/connection-analysis.md#geographic-clustering). Different institutions, roles, and circumstances.
+- **[Amy Eskridge](eskridge.md)** — Both have UAP-disclosure adjacency. McCasland's connection (DeLonge email, wife's partial confirmation) is documented; Eskridge's (self-reported antigravity claims) is unverified. See [hypotheses H6](../analysis/hypotheses.md).
+
+## Analysis Cross-References
+
+- [Connection analysis — Propulsion/advanced materials domain](../analysis/connection-analysis.md) — McCasland and Reza are the strongest pair for domain overlap
+- [Connection analysis — UAP/disclosure adjacency](../analysis/connection-analysis.md) — McCasland is the only subject with a documented UAP-community connection
+- [Connection analysis — Pattern-of-life: left without belongings](../analysis/connection-analysis.md) — Left phone and glasses; took wallet and revolver
+- [Hypotheses — H4 (Foreign intelligence)](../analysis/hypotheses.md) — McCasland assessed as the highest-plausibility case for foreign intelligence interest
+- [Hypotheses — H6 (UAP disclosure adjacency)](../analysis/hypotheses.md) — Documented connection to DeLonge; contested scope
+- [Foreign intelligence layer — Specific case assessment](../analysis/foreign-intel-layer.md) — Detailed evaluation of McCasland as a potential intelligence target
+
+---
+
 ## Open Questions
 
 1. **What was the specific medical condition?** BCSO cited privacy laws. Wife described anxiety, short-term memory loss, and sleep issues. No formal diagnosis disclosed. Was it consistent with voluntary departure?

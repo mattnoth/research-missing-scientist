@@ -196,6 +196,24 @@ Reza's disappearance is one of 11 cases of missing or deceased scientists with g
 
 ---
 
+## Related Cases
+
+- **[William McCasland](mccasland.md)** — Both had ties to the Air Force Research Laboratory ecosystem. Reza collaborated with AFRL on Mondaloy scale-up in 1999; McCasland commanded AFRL at Wright-Patterson (2011–2013). WION (Indian media) flagged a "Mondaloy connection" between them. No documented personal or professional relationship has been established. Both remain missing under unexplained circumstances.
+- **[Michael Hicks](hicks.md)** and **[Frank Maiwald](maiwald.md)** — All three worked at NASA's Jet Propulsion Laboratory in different departments and time periods. No shared projects or documented professional connections have been found. Together they form the JPL institutional cluster analyzed in [connection-analysis.md](../analysis/connection-analysis.md#institutional-co-employment).
+- **[Carl Grillmair](grillmair.md)** — Worked at Caltech/IPAC, institutionally adjacent to JPL (both Caltech-managed). Grillmair's case has a named suspect and strong non-conspiracy explanation, unlike Reza's genuinely unexplained disappearance.
+
+## Analysis Cross-References
+
+- [Connection analysis — Institutional co-employment (JPL cluster)](../analysis/connection-analysis.md) — Reza, Hicks, and Maiwald form the JPL institutional cluster
+- [Connection analysis — Propulsion/advanced materials domain](../analysis/connection-analysis.md) — Reza is the strongest data point for propulsion-materials specialization
+- [Connection analysis — Find a Grave anomaly](../analysis/connection-analysis.md) — Anomalous memorial documented under Corkboard Layer
+- [Hypotheses — H3 (Institutional clustering, JPL)](../analysis/hypotheses.md) — Reza's anomalies are the exception preventing this hypothesis from fully explaining the LA County cluster
+- [Hypotheses — H4 (Foreign intelligence)](../analysis/hypotheses.md) — Reza assessed as low-to-moderate plausibility for foreign intelligence interest due to Mondaloy's strategic relevance
+- [Hypotheses — H5 (Propulsion/materials specialization)](../analysis/hypotheses.md) — Reza is the only clean data point for this hypothesis
+- [Foreign intelligence layer — Specific case assessment](../analysis/foreign-intel-layer.md) — Detailed evaluation of Reza as a potential intelligence target
+
+---
+
 ## Verification of Key Claims
 
 ### "Co-inventor of a nickel superalloy for rocket engines" -- CONFIRMED

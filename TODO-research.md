@@ -99,13 +99,13 @@ The connection diagram needs significantly more data to match the richness of th
 - [ ] Add favicon and `apple-touch-icon` if missing
 
 ### In-Article Links & Structure
-- [ ] Add internal cross-links between related case pages (e.g., Reza ↔ McCasland, Hicks ↔ Grillmair)
-- [ ] Link from case pages to relevant analysis sections and vice versa
-- [ ] Add outbound links to authoritative sources (news articles, government pages, congressional records)
-- [ ] Use descriptive anchor text (not "click here" — use "House Oversight hearing on scientist deaths")
-- [ ] Add a sitemap.xml and submit to Google Search Console
-- [ ] Ensure proper heading hierarchy (single H1 per page, logical H2/H3 nesting)
-- [ ] Add breadcrumb navigation with structured data
+- [x] Add internal cross-links between related case pages (e.g., Reza ↔ McCasland, Hicks ↔ Grillmair) — Completed 2026-04-21. All 11 case files now have "Related Cases" and "Analysis Cross-References" sections. Analysis files have case back-links in all key tables.
+- [x] Link from case pages to relevant analysis sections and vice versa — Completed 2026-04-21. Case→analysis links in every case file; analysis→case links in connection-analysis.md, hypotheses.md, and foreign-intel-layer.md.
+- [x] Add outbound links to authoritative sources (news articles, government pages, congressional records) — Already present. All case files have source tables with links to LASD, BCSO, House Oversight, USPTO, DOJ, MIT, Caltech, Forest Lawn, and major news outlets.
+- [x] Use descriptive anchor text (not "click here" — use "House Oversight hearing on scientist deaths") — Already clean. No generic anchor text found in any file.
+- [ ] Add a sitemap.xml and submit to Google Search Console — **Website repo task** (mattnoth-dev), not this research submodule.
+- [x] Ensure proper heading hierarchy (single H1 per page, logical H2/H3 nesting) — Verified 2026-04-21. All 25 markdown files pass: single H1, logical H2/H3 nesting, no skipped levels.
+- [ ] Add breadcrumb navigation with structured data — **Website repo task** (mattnoth-dev), not this research submodule.
 
 ### Keywords & Search Visibility
 - [ ] Target high-search terms: "missing scientists", "dead scientists 2024 2025", "Los Alamos deaths", "defense scientist deaths", "scientists disappearing", "UAP scientists killed"

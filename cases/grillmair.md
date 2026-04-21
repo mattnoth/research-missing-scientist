@@ -117,6 +117,21 @@ Not specifically researched for this case file. The Grillmair case was reference
 
 ---
 
+## Related Cases
+
+- **[Michael Hicks](hicks.md)** and **[Frank Maiwald](maiwald.md)** — All three worked in the LA County area on space science (Grillmair at Caltech/IPAC, Hicks and Maiwald at JPL). IPAC is Caltech-operated and institutionally distinct from JPL despite both being Caltech-managed. No documented professional connections.
+- **[Monica Reza](reza.md)** — Part of the LA County geographic cluster. Reza disappeared from Angeles National Forest; Grillmair was shot in rural Llano, ~60 miles away. Grillmair's case has a named suspect and strong criminal explanation, serving as a control case against which unexplained cases like Reza's can be compared.
+
+## Analysis Cross-References
+
+- [Connection analysis — Institutional co-employment](../analysis/connection-analysis.md) — Grillmair is Caltech-adjacent but not JPL
+- [Connection analysis — Geographic clustering (LA County)](../analysis/connection-analysis.md) — Part of the four-person LA County cluster
+- [Hypotheses — H1 (Coincidence/base rate)](../analysis/hypotheses.md) — Grillmair is one of four cases with clear independent explanations
+- [Hypotheses — H3 (Institutional clustering, JPL)](../analysis/hypotheses.md) — Grillmair's criminal explanation supports the non-targeting interpretation
+- [Hypotheses — H8 (Independent events misgrouped)](../analysis/hypotheses.md) — Strongest example of an independently explained case
+
+---
+
 ## Open questions
 
 1. **Motive.** No motive has been publicly disclosed. Why did Snyder target Grillmair specifically? Was there a prior interaction beyond December 20?

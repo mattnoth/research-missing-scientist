@@ -107,6 +107,21 @@ Reporter Lauren Conlin (LA Magazine contributor, PopCrimeTV) discussed Garcia's 
 | APD: Garcia "may be a danger to himself" | Anonymous source: Garcia was "a very stable person," not suicidal | APD (via [KOB 4](https://www.kob.com/new-mexico/4-missing-persons-with-nuclear-ties-spark-concern-in-new-mexico/), T3) vs. anonymous source (T6 via Daily Mail) | **Unresolved.** These are contradictory characterizations of Garcia's mental state. The APD assessment is an official law-enforcement warning; the anonymous source's claim is unverifiable. |
 | Garcia described as having "top security clearance" and "broad access to the entire site's nuclear secrets" | No official confirmation of any KCNSC employment | Anonymous source (T6) vs. silence from KCNSC/NNSA/APD ([Newsweek](https://www.newsweek.com/missing-government-security-man-compared-to-neil-mccasland-case-11828116) noted no response from KCNSC) | **Unresolved.** The employment claim remains unverified by any named or institutional source. |
 
+## Related Cases
+
+- **[William McCasland](mccasland.md)** — Both disappeared from Albuquerque, NM (Garcia August 2025, McCasland February 2026). Both left on foot. NewsNation reporter Lauren Conlin [described the disappearances as "eerily similar"](https://www.newsnationnow.com/space/ufo/steven-garcia-disappearance-neil-mccasland/). No documented professional or personal connection. Garcia's alleged KCNSC employment is unverified; McCasland's defense career is extensively documented.
+- **[Anthony Chavez](chavez.md)** and **[Melissa Casias](casias.md)** — All four NM cases form the geographic cluster. Different institutions and circumstances. Garcia's case is the weakest of the four for pattern fit due to unverified employment.
+
+## Analysis Cross-References
+
+- [Connection analysis — Geographic clustering (New Mexico)](../analysis/connection-analysis.md) — Part of the four-person NM cluster
+- [Connection analysis — Nuclear facility workforce](../analysis/connection-analysis.md) — Garcia's KCNSC claim depends entirely on unverified T6 single source
+- [Connection analysis — Pattern-of-life: left without belongings](../analysis/connection-analysis.md) — Left phone, wallet, keys, car (but carried firearm)
+- [Hypotheses — H2 (Geographic clustering, NM)](../analysis/hypotheses.md) — NM clustering and workforce concentration
+- [Foreign intelligence layer](../analysis/foreign-intel-layer.md) — Assessed as implausible for foreign intelligence interest (unconfirmed clearance, unknown role)
+
+---
+
 ## Open questions
 
 1. **Was Garcia actually employed at KCNSC?** No official confirmation exists. [Newsweek](https://www.newsweek.com/missing-government-security-man-compared-to-neil-mccasland-case-11828116) reported reaching out to KCNSC with no documented response. This is the single most important unresolved factual question for this case.

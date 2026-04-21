@@ -103,6 +103,22 @@ Separately, retired British intelligence officer Franc Milburn has claimed to ha
 4. **"Antigravity discovery" claims:** Eskridge stated in 2020 that she was preparing to publish "groundbreaking foundational research" on antigravity and needed NASA authorization. No such publication has appeared, and her HAL5 presentation was a historical survey, not a report of experimental results.
 5. **Timeline disconnect:** Eskridge died in June 2022, three years before the 2025-2026 cluster of cases. Her inclusion in the pattern is retroactive, driven by media aggregation in April 2026 rather than by contemporaneous reporting or investigation.
 
+## Related Cases
+
+- **[William McCasland](mccasland.md)** — Both have UAP-disclosure adjacency. McCasland has a documented connection (DeLonge email, wife's partial confirmation); Eskridge made self-reported antigravity claims on a YouTube podcast with no peer-reviewed verification. McCasland is missing; Eskridge's death was ruled suicide. See [hypotheses H6](../analysis/hypotheses.md).
+- **[Nuno Loureiro](loureiro.md)** — Loose fusion/plasma physics adjacency. Eskridge's father (Richard Eskridge) was a retired NASA plasma physicist; Loureiro directed MIT's Plasma Science and Fusion Center. The connection is through Eskridge's father's career, not her own work.
+
+## Analysis Cross-References
+
+- [Connection analysis — UAP/disclosure adjacency](../analysis/connection-analysis.md) — Eskridge made self-reported claims; no verified results
+- [Connection analysis — Fusion/plasma physics domain](../analysis/connection-analysis.md) — Father's career, not Eskridge's direct work
+- [Hypotheses — H1 (Coincidence/base rate)](../analysis/hypotheses.md) — Eskridge is one of four cases with clear independent explanations (ruled suicide, father rejects conspiracy)
+- [Hypotheses — H6 (UAP disclosure adjacency)](../analysis/hypotheses.md) — Self-reported claims without verification; 9 of 11 subjects have no documented UAP connection
+- [Hypotheses — H9 (Exotic hypotheses)](../analysis/hypotheses.md) — No physical evidence of anomalous phenomena in any case
+- [Foreign intelligence layer](../analysis/foreign-intel-layer.md) — Not applicable (private org with no government funding)
+
+---
+
 ## Open Questions
 1. **Official cause of death:** Has the Huntsville Police Department or Madison County Coroner's Office issued a formal public ruling? The "self-inflicted gunshot wound" characterization is widespread in media but the original official source has not been located.
 2. **Police investigation records:** Were there any police reports filed by Eskridge regarding the threats, harassment, or directed energy weapon attacks she described in her 2020 interview? If so, what did investigators find?

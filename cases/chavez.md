@@ -89,6 +89,21 @@ As of April 2026, Chavez has not been found and remains listed on the New Mexico
 - **"Not believed to be endangered" vs. "out of character":** LAPD initially stated Chavez was not believed to be endangered, while simultaneously noting that family and friends considered the disappearance "out of character." These are not strictly contradictory but reflect a tension in the initial assessment.
 - **Job title:** No source provides a specific role at LANL. British Brief calls him a "contractor," which is unverified. Other sources say "employee." The distinction matters for assessing security clearance level and relevance to the cluster.
 
+## Related Cases
+
+- **[Melissa Casias](casias.md)** — Both were LANL employees who disappeared in New Mexico within two months (Chavez May 2025, Casias June 2025). Different roles (Chavez's unknown, Casias was admin assistant) and locations (Los Alamos vs. Taos County, ~80 miles apart). Both left without wallet, phone, and keys. No documented professional connection.
+- **[Steven Garcia](garcia.md)** and **[William McCasland](mccasland.md)** — All four New Mexico cases form the NM geographic cluster. Different institutions and circumstances but all occurred within a 10-month window. Garcia and McCasland disappeared from Albuquerque; Chavez from Los Alamos.
+
+## Analysis Cross-References
+
+- [Connection analysis — Institutional co-employment (LANL)](../analysis/connection-analysis.md) — Chavez and Casias share an employer
+- [Connection analysis — Geographic clustering (New Mexico)](../analysis/connection-analysis.md) — Part of the four-person NM cluster
+- [Connection analysis — Pattern-of-life: left without belongings](../analysis/connection-analysis.md) — Left wallet, keys, phone, cigarettes, and car
+- [Hypotheses — H2 (Geographic clustering, NM)](../analysis/hypotheses.md) — NM clustering and workforce concentration analysis
+- [Hypotheses — H8 (Independent events misgrouped)](../analysis/hypotheses.md) — Plausible individual explanation (cognitive event or voluntary departure for 78-year-old retiree)
+
+---
+
 ## Open Questions
 1. **What was Chavez's specific role at LANL?** No public source identifies his job title, division, or whether he was a scientist, engineer, technician, or support staff. This is critical for assessing whether his disappearance fits the "missing scientist" pattern.
 2. **Did Chavez hold a security clearance?** Not documented. LANL employees commonly hold clearances, but this is not confirmed for Chavez.

@@ -176,6 +176,21 @@ The criminal case against Claudio Manuel Neves Valente is exceptionally well-doc
 
 **Assessment:** The evidence strongly supports the conclusion that Loureiro's murder was a personally motivated act by a former classmate who harbored long-standing resentment, likely related to academic/professional jealousy. There is no evidence in available sources suggesting any defense, national security, foreign intelligence, or conspiracy-related motive. The case's inclusion in the broader "missing scientists" pattern is primarily temporal coincidence; the criminal facts distinguish it sharply from unsolved disappearances. This case is the strongest candidate for exclusion or reclassification from the "pattern" on evidentiary grounds.
 
+## Related Cases
+
+- **[Jason Thomas](thomas.md)** — Both Massachusetts cases, both December 2025 (~15 miles apart in metro Boston). Loureiro was a MIT professor; Thomas was a Novartis researcher. No documented connection. Both cases have strong non-conspiracy explanations: Loureiro has a named suspect with forensic evidence and video confession; Thomas's disappearance followed severe personal grief with no foul play suspected.
+- **[Amy Eskridge](eskridge.md)** — Both have loose fusion/plasma physics adjacency. Loureiro directed MIT's Plasma Science and Fusion Center; Eskridge's father was a retired NASA plasma physicist. The connection is through Eskridge's father's career, not Eskridge herself.
+
+## Analysis Cross-References
+
+- [Connection analysis — Geographic clustering (Massachusetts)](../analysis/connection-analysis.md) — Part of the two-person Massachusetts cluster
+- [Connection analysis — Fusion/plasma physics domain](../analysis/connection-analysis.md) — Loureiro is the only subject with direct confirmed fusion research
+- [Hypotheses — H1 (Coincidence/base rate)](../analysis/hypotheses.md) — Loureiro is one of four cases with clear independent explanations
+- [Hypotheses — H8 (Independent events misgrouped)](../analysis/hypotheses.md) — Strongest criminal case documentation among all 11 cases
+- [Foreign intelligence layer](../analysis/foreign-intel-layer.md) — Excluded by evidence (named suspect with personal motive and video confession)
+
+---
+
 ## Open Questions
 1. **Did Valente and Loureiro have any contact after 2000?** No evidence of communication has been found, but this has not been definitively ruled out.
 2. **Why did Valente target the Brown economics review session specifically?** He stated he wanted "a regular room" rather than an auditorium, but the connection to an economics class (not physics) is unexplained.

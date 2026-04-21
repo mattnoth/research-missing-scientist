@@ -108,6 +108,20 @@ In April 2026, his death was publicly linked by journalists to a broader pattern
 2. **"No autopsy record found" vs. absence of evidence:** Newsweek reported no autopsy record was found, but this could reflect incomplete FOIA/records searches rather than a confirmed absence of autopsy.
 3. **Pattern claims vs. skeptics:** Congressional members and some media allege a suspicious pattern; CBS News, CSIS analysts, and former DOE officials found no evidence of connection.
 
+## Related Cases
+
+- **[Monica Reza](reza.md)** and **[Frank Maiwald](maiwald.md)** — All three worked at NASA's Jet Propulsion Laboratory. Hicks (1998–2022) in planetary science, Reza in materials processing, Maiwald (~1999–2024) in space instrumentation. No shared projects or documented professional connections. Together they form the JPL institutional cluster.
+- **[Carl Grillmair](grillmair.md)** — Both worked in the LA County area on space science (Hicks at JPL, Grillmair at Caltech/IPAC). Grillmair's case has a named suspect; Hicks' cause of death remains undisclosed. Both are part of the LA County geographic cluster.
+
+## Analysis Cross-References
+
+- [Connection analysis — Institutional co-employment (JPL cluster)](../analysis/connection-analysis.md) — Hicks is part of the three-person JPL cluster
+- [Connection analysis — Temporal clustering](../analysis/connection-analysis.md) — Hicks (July 2023) is a pre-cluster death, retroactively added
+- [Hypotheses — H3 (Institutional clustering, JPL)](../analysis/hypotheses.md) — Hicks' undisclosed cause of death creates irreducible uncertainty for this hypothesis
+- [Hypotheses — H8 (Independent events misgrouped)](../analysis/hypotheses.md) — Al-Anon donation request and JPL departure in 2022 may indicate personal context
+
+---
+
 ## Open Questions
 
 1. **What was the cause of death?** No source -- including the obituary, professional memorials, or media reporting -- has disclosed the cause of death.

@@ -87,6 +87,20 @@ As of research date (April 2026), no public statement has been made by the medic
 - **Age discrepancy:** Some reports describe Thomas as 45, others as 46. The obituary states DOB January 10, 1980, and he disappeared December 12, 2025 (age 45). The obituary itself says "age 46," which would be correct if the date of death is considered as March 17, 2026 (after his January birthday).
 - **No substantive contradictions** in the factual reporting. All sources are consistent on the core facts: left home without phone/wallet on December 12, body found in Lake Quannapowitt on March 17, no foul play suspected.
 
+## Related Cases
+
+- **[Nuno Loureiro](loureiro.md)** — Both Massachusetts cases, both December 2025, ~15 miles apart. Thomas (pharmaceutical researcher at Novartis) has no defense or aerospace connection, unlike Loureiro (MIT fusion physics director). Both have strong non-conspiracy explanations. Thomas is the weakest fit for any targeting hypothesis given his field and personal circumstances.
+
+## Analysis Cross-References
+
+- [Connection analysis — Geographic clustering (Massachusetts)](../analysis/connection-analysis.md) — Part of the two-person Massachusetts cluster
+- [Connection analysis — Pattern-of-life: left without belongings](../analysis/connection-analysis.md) — Left phone and wallet
+- [Hypotheses — H1 (Coincidence/base rate)](../analysis/hypotheses.md) — Thomas is one of four cases with clear independent explanations
+- [Hypotheses — H8 (Independent events misgrouped)](../analysis/hypotheses.md) — No defense connection; personal grief context
+- [Foreign intelligence layer](../analysis/foreign-intel-layer.md) — Not applicable (no defense connection)
+
+---
+
 ## Open Questions
 1. **Cause and manner of death:** The Office of the Chief Medical Examiner has not publicly released findings as of April 2026. Was the cause of death drowning, exposure, or something else?
 2. **How did Thomas enter the lake?** The timeline between his departure near midnight on December 12 and the lake's location relative to the surveillance footage near railroad tracks has not been publicly reconstructed.

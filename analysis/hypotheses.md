@@ -23,7 +23,7 @@ These hypotheses were registered before pattern analysis began. The research eva
 
 Several findings support this hypothesis:
 
-1. **Independent explanations exist for multiple cases.** Grillmair was shot by a named suspect (Freddy Snyder) with an escalating criminal history and no connection to Grillmair's work -- charged with murder, carjacking, and burglary [T1/T3, Confirmed]. Loureiro was killed by a former college classmate (Claudio Valente) with a documented 20-year grudge; ballistic evidence links the same weapon to both the Loureiro murder and the Brown University mass shooting; Valente left a video confession [T1 DOJ, Confirmed]. Thomas was a pharmaceutical researcher with no defense connection who disappeared after both parents died within 90 minutes of each other; DA stated no foul play suspected; body found in nearby lake after winter thaw [T1 Middlesex DA, Confirmed]. Eskridge's death was ruled suicide; her father, a retired NASA engineer who worked alongside her, publicly stated "nothing suspicious" [T4 NewsNation, Reported].
+1. **Independent explanations exist for multiple cases.** [Grillmair](../cases/grillmair.md) was shot by a named suspect (Freddy Snyder) with an escalating criminal history and no connection to Grillmair's work -- charged with murder, carjacking, and burglary [T1/T3, Confirmed]. [Loureiro](../cases/loureiro.md) was killed by a former college classmate (Claudio Valente) with a documented 20-year grudge; ballistic evidence links the same weapon to both the Loureiro murder and the Brown University mass shooting; Valente left a video confession [T1 DOJ, Confirmed]. [Thomas](../cases/thomas.md) was a pharmaceutical researcher with no defense connection who disappeared after both parents died within 90 minutes of each other; DA stated no foul play suspected; body found in nearby lake after winter thaw [T1 Middlesex DA, Confirmed]. [Eskridge](../cases/eskridge.md)'s death was ruled suicide; her father, a retired NASA engineer who worked alongside her, publicly stated "nothing suspicious" [T4 NewsNation, Reported].
 
 2. **No common vector or method.** Cases include hiking disappearances (Reza, possibly Chavez), walking away from home (Casias, Garcia, McCasland, Thomas), shooting by identified suspect (Grillmair, Loureiro), undisclosed cause of death (Hicks, Maiwald), and ruled suicide (Eskridge). No two cases share a method.
 
@@ -35,7 +35,7 @@ Against this hypothesis:
 
 1. **The temporal clustering is notable.** Eight of 11 events occurred within a 10-month period (May 2025 to February 2026). This is the feature most difficult to explain as pure base-rate coincidence, though it could reflect a real-time media feedback loop (once the first cases drew attention, others were more likely to be noticed and grouped).
 
-2. **Several cases lack explanation.** McCasland (highly cleared two-star general), Reza (superalloy inventor with anomalous Find a Grave memorial), Chavez, Casias, and Garcia remain genuinely unexplained. The absence of an explanation is not evidence of conspiracy, but these cases cannot be classified as independently explained.
+2. **Several cases lack explanation.** [McCasland](../cases/mccasland.md) (highly cleared two-star general), [Reza](../cases/reza.md) (superalloy inventor with anomalous Find a Grave memorial), [Chavez](../cases/chavez.md), [Casias](../cases/casias.md), and [Garcia](../cases/garcia.md) remain genuinely unexplained. The absence of an explanation is not evidence of conspiracy, but these cases cannot be classified as independently explained.
 
 **Current assessment:** **Moderate-to-strong support.** This is the best-supported hypothesis for the dataset as a whole. At least 4 of 11 cases have clear or probable independent explanations. No common operational signature or documented inter-case connection has been found. The grouping appears to be substantially a media artifact. However, the temporal clustering and the genuinely unexplained disappearances of McCasland and Reza prevent this hypothesis from being fully dispositive. The null hypothesis cannot be rejected, but neither can it fully account for the 2025-2026 concentration without additional information.
 
@@ -59,7 +59,7 @@ Against this hypothesis:
 
 Supporting evidence:
 
-1. **Different institutions and roles.** Chavez and Casias were at LANL (different roles -- unknown for Chavez, admin assistant for Casias). Garcia's alleged employer (KCNSC) is a separate institution from LANL. McCasland worked at Applied Technology Associates/BlueHalo, distinct from all others. No documented professional overlap between any NM subjects. [T1/T3/T4 sources for each case]
+1. **Different institutions and roles.** [Chavez](../cases/chavez.md) and [Casias](../cases/casias.md) were at LANL (different roles -- unknown for Chavez, admin assistant for Casias). [Garcia](../cases/garcia.md)'s alleged employer (KCNSC) is a separate institution from LANL. [McCasland](../cases/mccasland.md) worked at Applied Technology Associates/BlueHalo, distinct from all others. No documented professional overlap between any NM subjects. [T1/T3/T4 sources for each case]
 
 2. **Different circumstances.** Chavez disappeared on foot from Los Alamos. Casias was last seen walking on NM-518 near Talpa, 80+ miles from Los Alamos. Garcia left his Albuquerque home carrying a firearm. McCasland left his Albuquerque home with wallet and revolver but without phone or glasses. Locations, dates, and behavioral patterns differ. [T1/T3/T4 sources]
 
@@ -93,7 +93,7 @@ Against this hypothesis:
 
 Supporting evidence:
 
-1. **Different departments and projects.** Reza worked in Materials Processing (superalloys). Hicks worked in planetary science (DART, NEAT, asteroids). Maiwald worked on space instrumentation (SBG-VSWIR, AMR, HIFI/Herschel). Grillmair worked at IPAC on astrophysics (exoplanet atmospheres, stellar streams, NEO Surveyor). No documented project overlap between any subjects. [T1 sources for each]
+1. **Different departments and projects.** [Reza](../cases/reza.md) worked in Materials Processing (superalloys). [Hicks](../cases/hicks.md) worked in planetary science (DART, NEAT, asteroids). [Maiwald](../cases/maiwald.md) worked on space instrumentation (SBG-VSWIR, AMR, HIFI/Herschel). [Grillmair](../cases/grillmair.md) worked at IPAC on astrophysics (exoplanet atmospheres, stellar streams, NEO Surveyor). No documented project overlap between any subjects. [T1 sources for each]
 
 2. **Grillmair has a clear criminal explanation.** Named suspect Freddy Snyder arrested same day, charged with murder; pattern of escalating criminal behavior from trespassing to shooting; lived 2 miles away; no professional connection to victim. [T1/T3, Confirmed]
 
@@ -172,7 +172,7 @@ Against this hypothesis -- and the "against" evidence is substantially stronger:
 
 **What the research found:**
 
-1. **The specialization grouping is weaker than it appears.** Only Reza (superalloy metallurgy) has direct, confirmed work in propulsion materials. McCasland commanded a research laboratory that covered propulsion among many other topics but was himself an astronautical engineer and program manager, not a metallurgist. Loureiro worked in fusion/plasma but was killed by a personal-grudge attacker. Maiwald worked on space instruments but not propulsion. The remaining subjects worked in planetary science (Hicks), astrophysics (Grillmair), admin (Casias), pharma (Thomas), or unknown roles (Chavez, Garcia). [T1 sources for each]
+1. **The specialization grouping is weaker than it appears.** Only [Reza](../cases/reza.md) (superalloy metallurgy) has direct, confirmed work in propulsion materials. [McCasland](../cases/mccasland.md) commanded a research laboratory that covered propulsion among many other topics but was himself an astronautical engineer and program manager, not a metallurgist. [Loureiro](../cases/loureiro.md) worked in fusion/plasma but was killed by a personal-grudge attacker. [Maiwald](../cases/maiwald.md) worked on space instruments but not propulsion. The remaining subjects worked in planetary science (Hicks), astrophysics (Grillmair), admin (Casias), pharma (Thomas), or unknown roles (Chavez, Garcia). [T1 sources for each]
 
 2. **The hypothesis is partially a post-hoc artifact.** Grouping cases by specialization after identifying the cluster creates the appearance of domain concentration. If one starts with the full population of U.S. propulsion/materials scientists and asks how many have died or gone missing, the picture may look very different.
 
@@ -198,9 +198,9 @@ Against this hypothesis -- and the "against" evidence is substantially stronger:
 
 **What the research found:**
 
-1. **One subject has a documented UAP-community connection: McCasland.** The DeLonge-to-Podesta email (January 2016) names McCasland and claims he "helped assemble my advisory team" and was "very, very aware" of DeLonge's project. McCasland's wife confirmed a limited, unpaid consulting relationship focused on lending "verisimilitude to Tom's fiction book and media activities." Rep. Burlison stated on-record that McCasland is "connected to the UAP topic" and "has a lot of information." This is the only documented connection. [T1 WikiLeaks; T4 Newsweek, NewsNation]
+1. **One subject has a documented UAP-community connection: [McCasland](../cases/mccasland.md).** The DeLonge-to-Podesta email (January 2016) names McCasland and claims he "helped assemble my advisory team" and was "very, very aware" of DeLonge's project. McCasland's wife confirmed a limited, unpaid consulting relationship focused on lending "verisimilitude to Tom's fiction book and media activities." Rep. Burlison stated on-record that McCasland is "connected to the UAP topic" and "has a lot of information." This is the only documented connection. [T1 WikiLeaks; T4 Newsweek, NewsNation]
 
-2. **One subject made self-reported UAP-adjacent claims: Eskridge.** She claimed antigravity discoveries and threats on a YouTube podcast in 2020. No peer-reviewed results, no corroborating evidence, and her father rejects conspiracy theories about her death. [T4 published interview; T4 NewsNation]
+2. **One subject made self-reported UAP-adjacent claims: [Eskridge](../cases/eskridge.md).** She claimed antigravity discoveries and threats on a YouTube podcast in 2020. No peer-reviewed results, no corroborating evidence, and her father rejects conspiracy theories about her death. [T4 published interview; T4 NewsNation]
 
 3. **Nine of 11 subjects have no documented UAP connection.** Extending a UAP connection to others (e.g., Reza worked with AFRL once, therefore UAP-adjacent) is guilt-by-institutional-association, not evidence.
 
@@ -261,19 +261,19 @@ Against this hypothesis -- and the "against" evidence is substantially stronger:
 2. **Grouping criteria are loose.** The 11 cases span four years (2022-2026), five states (NM, CA, MA, AL, FL-sourced), at least eight different institutions, and roles ranging from two-star general to admin assistant to pharma researcher. The common thread -- "scientist or defense-adjacent worker" -- is broad enough to capture a large population.
 
 3. **Individual explanations exist or are plausible for most cases:**
-   - Grillmair: Named suspect, criminal escalation pattern [Confirmed]
-   - Loureiro: Named suspect, personal grudge, video confession [Confirmed]
-   - Thomas: Personal grief, no defense connection, no foul play suspected [Confirmed]
-   - Eskridge: Ruled suicide, father rejects conspiracy [Reported]
-   - Hicks: Cause undisclosed but no affirmative evidence of foul play; left JPL a year before death; Al-Anon donation request may indicate personal context [T1 obituary]
-   - Maiwald: Cause undisclosed but no affirmative evidence of foul play [T1 obituary]
-   - Chavez: 78-year-old retiree who left on foot without belongings; consistent with cognitive event or voluntary departure [T3]
-   - Casias: Left walking with backpack; family dynamics reported as "divided"; could indicate voluntary departure or personal crisis [T3]
+   - [Grillmair](../cases/grillmair.md): Named suspect, criminal escalation pattern [Confirmed]
+   - [Loureiro](../cases/loureiro.md): Named suspect, personal grudge, video confession [Confirmed]
+   - [Thomas](../cases/thomas.md): Personal grief, no defense connection, no foul play suspected [Confirmed]
+   - [Eskridge](../cases/eskridge.md): Ruled suicide, father rejects conspiracy [Reported]
+   - [Hicks](../cases/hicks.md): Cause undisclosed but no affirmative evidence of foul play; left JPL a year before death; Al-Anon donation request may indicate personal context [T1 obituary]
+   - [Maiwald](../cases/maiwald.md): Cause undisclosed but no affirmative evidence of foul play [T1 obituary]
+   - [Chavez](../cases/chavez.md): 78-year-old retiree who left on foot without belongings; consistent with cognitive event or voluntary departure [T3]
+   - [Casias](../cases/casias.md): Left walking with backpack; family dynamics reported as "divided"; could indicate voluntary departure or personal crisis [T3]
 
 4. **Cases that resist individual explanation:**
-   - McCasland: Highly cleared retired general who left home with wallet and revolver but without phone and glasses, after reporting "mental fog." Wife stated he "planned not to be found" but denied dementia. Genuinely unexplained. [T3]
-   - Reza: Disappeared mid-hike with witnesses; anomalous Find a Grave memorial; cell phone data obtained but not released. Genuinely unexplained, with features unusual for a hiking accident. [T4/T7]
-   - Garcia: If KCNSC employment claim is true, his disappearance is unexplained; but the claim itself is unverified. [T6]
+   - [McCasland](../cases/mccasland.md): Highly cleared retired general who left home with wallet and revolver but without phone and glasses, after reporting "mental fog." Wife stated he "planned not to be found" but denied dementia. Genuinely unexplained. [T3]
+   - [Reza](../cases/reza.md): Disappeared mid-hike with witnesses; anomalous Find a Grave memorial; cell phone data obtained but not released. Genuinely unexplained, with features unusual for a hiking accident. [T4/T7]
+   - [Garcia](../cases/garcia.md): If KCNSC employment claim is true, his disappearance is unexplained; but the claim itself is unverified. [T6]
 
 **Current assessment:** **Moderate-to-strong support.** This hypothesis accounts for 7-8 of 11 cases through individual explanations (4 confirmed, 3-4 plausible). Two cases (McCasland, Reza) genuinely resist easy individual explanation. This is the second-best-supported hypothesis after H1, and the two hypotheses are largely complementary. The key question is whether the 2-3 genuinely unexplained cases are best understood as the tail end of a distribution of independent events, or as evidence of something more. Current evidence is insufficient to resolve this.
 

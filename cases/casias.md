@@ -103,6 +103,21 @@ Not investigated in this research pass. No foreign-state-affiliated coverage was
 3. **Family dynamics:** Taos News reported a "family divided" on July 9. Mark Casias was repeatedly noted as unavailable for comment. The nature of the family division is not fully detailed in accessible reporting.
 4. **Source of factory-reset claim:** The phone-wiping detail comes exclusively from family (McMillen), not from LE. NMSP has not publicly confirmed or denied this detail.
 
+## Related Cases
+
+- **[Anthony Chavez](chavez.md)** — Both were LANL employees who disappeared in New Mexico within two months (Chavez May 2025, Casias June 2025). Different roles and locations (Los Alamos vs. Taos County). Both left without personal belongings (phones, wallet). Casias's case has the additional anomaly of factory-reset phones (family-sourced, unconfirmed by NMSP).
+- **[Steven Garcia](garcia.md)** and **[William McCasland](mccasland.md)** — All four NM cases form the geographic cluster analyzed in [connection-analysis.md](../analysis/connection-analysis.md). Different institutions, roles, and circumstances.
+
+## Analysis Cross-References
+
+- [Connection analysis — Institutional co-employment (LANL)](../analysis/connection-analysis.md) — Casias and Chavez share an employer
+- [Connection analysis — Nuclear facility workforce](../analysis/connection-analysis.md) — Casias's admin role with disputed clearance level
+- [Connection analysis — Pattern-of-life: left without belongings](../analysis/connection-analysis.md) — Left purse, wallet, cash, IDs, both phones, car
+- [Connection analysis — Factory-reset/digital anomalies](../analysis/connection-analysis.md) — Both phones reportedly factory-reset; most operationally anomalous digital detail in the dataset alongside Reza's cell data suppression
+- [Hypotheses — H2 (Geographic clustering, NM)](../analysis/hypotheses.md) — NM clustering and workforce concentration analysis
+
+---
+
 ## Open Questions
 
 1. **Who reset the phones and when?** The factory reset of both personal and work phones is the most unusual evidentiary detail. Was this done by Casias herself, or by someone else? When exactly were the phones reset relative to her disappearance? NMSP has not addressed this publicly.

@@ -121,6 +121,20 @@ In April 2026, his death was publicly linked by journalists to a broader pattern
 3. **Employment dates:** The obituary does not specify start/end dates at JPL; "since 1999" and "~25 years" are approximations from media reporting. His LinkedIn profile may provide more precision but was not fully accessible.
 4. **Pattern claims vs. skeptics:** Same tension as Hicks case -- Congressional and media claims of a suspicious pattern are contradicted by CBS News review, CSIS analysts, and former DOE officials who found no evidence of connection.
 
+## Related Cases
+
+- **[Michael Hicks](hicks.md)** and **[Monica Reza](reza.md)** — All three worked at NASA's Jet Propulsion Laboratory in different departments: Maiwald in space instrumentation (SBG-VSWIR, AMR, HIFI/Herschel), Hicks in planetary science (DART, NEAT), Reza in materials processing. No shared projects or documented professional connections. Together they form the JPL institutional cluster.
+- **[Carl Grillmair](grillmair.md)** — Part of the LA County geographic cluster. Grillmair worked at Caltech/IPAC, institutionally adjacent to JPL. Grillmair's case has a named suspect; Maiwald's cause of death remains undisclosed, paralleling [Hicks](hicks.md).
+
+## Analysis Cross-References
+
+- [Connection analysis — Institutional co-employment (JPL cluster)](../analysis/connection-analysis.md) — Maiwald is part of the three-person JPL cluster
+- [Connection analysis — Temporal clustering](../analysis/connection-analysis.md) — Maiwald (July 2024) is a pre-cluster death, retroactively added
+- [Hypotheses — H3 (Institutional clustering, JPL)](../analysis/hypotheses.md) — Maiwald's undisclosed cause of death creates irreducible uncertainty
+- [Hypotheses — H5 (Propulsion/materials specialization)](../analysis/hypotheses.md) — Maiwald worked on space instruments, partially adjacent to propulsion domain
+
+---
+
 ## Open Questions
 
 1. **What was the cause of death?** No source has disclosed this. The absence is the central unanswered question.
