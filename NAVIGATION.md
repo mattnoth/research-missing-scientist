@@ -28,7 +28,8 @@ Routing table: if you are trying to do X, look here first. This is a pointer ind
 
 ## Open threads and integrity
 
-- **Search history and decisions** → [logs/research-log.md](logs/research-log.md) *(this is also the session ledger — appended to at session close)*
+- **Session progress (all sessions)** → [logs/progress.md](logs/progress.md) *(mandatory append at every session close)*
+- **Research-specific search history** → [logs/research-log.md](logs/research-log.md) *(appended when session touches research content)*
 - **Outstanding contradictions** → [logs/contradictions.md](logs/contradictions.md)
 - **Analytical gaps** → [logs/known-unknowns.md](logs/known-unknowns.md)
 - **Open tasks** → [TODO-research.md](TODO-research.md)

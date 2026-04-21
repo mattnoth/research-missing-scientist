@@ -37,21 +37,21 @@ If any source tier was changed in this session, propagate the change across all 
 - Any new TODOs discovered → add with enough context that a future agent can pick them up cold.
 - If the file has grown unwieldy, flag it — do not silently archive.
 
-## 6. Research log append — mandatory
+## 6. Session progress append — mandatory
 
-Append a new dated section to [logs/research-log.md](../../logs/research-log.md):
+Append a new dated section to [logs/progress.md](../../logs/progress.md). This is the **single durable record** of every agent session — research, website, tooling, whatever. Do **not** skip this step.
 
 ```
 ## YYYY-MM-DD — <brief description>
 
-**What happened:**
-- <specific bullets: searches run, files touched, decisions made, with paths>
+**What changed:**
+- <specific bullets: files touched, decisions made, commits/pushes, with paths and SHAs>
 
-**Key discoveries or decisions:** (optional)
-- ...
+**Further work:**
+- <anything half-finished, deferred, or worth picking up next session>
 ```
 
-Rules: specific over general; include file paths; skip meta-chat unless it produced structural change; a trivial session can be one line. Do **not** skip this step — the research log is the project's durable session memory.
+Rules: specific over general; include file paths and commit SHAs; a trivial session can be two lines. If the session also touched research content, **additionally** append to [logs/research-log.md](../../logs/research-log.md) with research-specific detail (searches run, sources found, tier changes).
 
 ## 7. Status and changelog
 
