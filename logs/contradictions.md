@@ -76,6 +76,26 @@ Conflicts between sources, tracked with citations and resolution status. Include
 - **Source B:** Franc Milburn (retired British intelligence officer) concluded death was not suicide; Shellenberger reportedly testified she was "murdered by a private aerospace company" -- media reports (T3/T5)
 - **Status:** Unresolved. Father is a firsthand source who worked alongside Amy and has direct knowledge. Milburn's methodology and evidence have not been publicly disclosed. Shellenberger's evidentiary basis is unknown.
 
+### Hicks: Employment timeline ambiguity
+- **Source A:** Obituary and professional memorials state Hicks worked at JPL from 1998 to 2022 -- Forest Lawn obituary (T1), U of Arizona LPL memorial (T1)
+- **Source B:** Hicks died in July 2023, one year after leaving JPL -- Forest Lawn obituary (T1)
+- **Status:** Unresolved. No source explains whether the departure was retirement, layoff (JPL had budget-related layoffs in this period), health-related, or voluntary.
+
+### Hicks: "No autopsy record found" vs. absence of evidence
+- **Source A:** Newsweek reported no autopsy record was found -- Newsweek (T2)
+- **Source B:** No on-record statement from the LA County Medical Examiner confirming or denying an autopsy -- absence of confirmation
+- **Status:** Unresolved. An incomplete records search returning no results is different from a confirmed absence of autopsy.
+
+### Maiwald: "No autopsy performed" -- source unclear
+- **Source A:** Multiple outlets report no autopsy was performed -- Newsweek, other media (T2)
+- **Source B:** The original basis for this claim has not been traced to an on-record statement from the LA County Medical Examiner -- absence of source
+- **Status:** Unresolved. Same pattern as Hicks: the "no autopsy" claim lacks traceable T1 sourcing.
+
+### Maiwald: "Principal researcher" vs. "principal investigator"
+- **Source A:** Media frequently describe Maiwald as a "principal investigator" -- multiple T2 sources
+- **Source B:** JPL "Principal" is a specific honor for outstanding individual contributions, distinct from the PI role on a specific project -- Legacy.com obituary (T1)
+- **Status:** Partially resolved. The obituary clarifies the JPL Principal designation. Media conflation of the terms inflates the perceived seniority.
+
 ---
 
 ## Cross-Case Contradictions

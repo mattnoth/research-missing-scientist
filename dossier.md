@@ -50,7 +50,7 @@ The FBI investigation is ongoing. If classified intelligence indicators exist (i
 | H1 — Coincidence / base rate | **Moderate-to-strong support.** Best-supported hypothesis overall. |
 | H2 — Geographic clustering (NM) | **Moderate support.** NM clustering reflects defense workforce concentration. |
 | H3 — Institutional clustering (JPL) | **Moderate support.** JPL/Caltech clustering reflects institutional size. |
-| H4 — Foreign intelligence | **Not supported by available evidence** but cannot be categorically excluded for McCasland and Reza. |
+| H4 — Foreign intelligence | **Weak support.** Not supported by available evidence but cannot be categorically excluded for McCasland and Reza. |
 | H5 — Propulsion/materials specialization | **Weak support.** Reza and McCasland fit; most subjects do not. |
 | H6 — UAP disclosure adjacency | **Weak support.** Documented only for McCasland; narrower than public perception. |
 | H7 — Internal U.S. program protection | **Not supported.** No subjects documented as whistleblowers or IGIC complainants. |
