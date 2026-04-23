@@ -8,7 +8,7 @@ How this research repository was built, from conception through execution. Writt
 
 In mid-April 2026, news broke that the Trump White House and FBI had confirmed a "holistic review" of approximately 11 U.S. scientists and officials — tied to nuclear, aerospace, military, and advanced research — who had died or disappeared under unusual circumstances since 2022. The House Oversight Committee opened its own investigation. Media coverage ranged from careful reporting to rampant speculation. There was no single authoritative public source that compiled the evidence with source discipline, evaluated the competing hypotheses, and clearly separated what was documented from what was alleged from what was speculated.
 
-This project set out to build that resource: a structured, rigorously sourced research dossier maintained entirely through AI-assisted research workflows. The author (Matt Noth) designed and wrote the prompts; Claude Code (Anthropic's CLI agent) executed them.
+This project set out to build that resource: a structured, rigorously sourced research dossier maintained entirely through AI-assisted research workflows. The author (Matt Noth) designed the prompts, directed the research, and reviewed the output; Claude Code (Anthropic's CLI agent) performed the searches, drew the analysis, and wrote all of the prose.
 
 ## Architecture: the prompt pipeline
 
